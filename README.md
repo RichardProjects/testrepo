@@ -1,2 +1,2 @@
 # testrepo
-repo for learn guthub functions
+repo for learn github functions
